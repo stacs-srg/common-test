@@ -1,9 +1,0 @@
-
-syntax: regexp
-.idea$
-syntax: regexp
-.iml$
-syntax: regexp
-^target$
-syntax: glob
-.DS_Store
